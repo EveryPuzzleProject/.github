@@ -10,7 +10,7 @@ files (grid, clues, answers, author and date, each linked back to its source
 scan), and checking every one by hand, so they can be searched, studied and
 preserved for posterity.
 
-Inspired by David Steinberg's [Pre-Shortzian Puzzle Project](https://www.xwordinfo.com/PSFAQ),
+Inspired by David Steinberg's [Pre-Shortzian Puzzle Project](http://www.preshortzianpuzzleproject.com/),
 whose volunteers digitized New York Times crosswords from the pre-digital era.
 
 This is a research archive, not a place to play old puzzles.
