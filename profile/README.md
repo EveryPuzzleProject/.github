@@ -15,6 +15,13 @@ whose volunteers digitized New York Times crosswords from the pre-digital era.
 
 This is a research archive, not a place to play old puzzles.
 
+## News
+
+**October 2026: our first full series.** Every crossword *Judge* magazine
+printed from 1924 to 1939, 531 puzzles, has been read from archive.org scans into [xd](https://github.com/century-arcade/xdformat),
+checked by Claude and by people against the scans, and is on its way into gxd.
+[How it went: what worked, what was hard, and what's next.](https://blitz.xwordapp.com/blog/judge.html)
+
 ## Where to start
 
 - **[catalog](https://github.com/EveryPuzzleProject/catalog)**: every
@@ -28,7 +35,7 @@ This is a research archive, not a place to play old puzzles.
 
 | Publication | Years | Status |
 |---|---|---|
-| [Judge](https://github.com/EveryPuzzleProject/judge) | 1924–1939 | under review · [status page](https://everypuzzleproject.github.io/judge/) |
+| [Judge](https://github.com/EveryPuzzleProject/judge) | 1924–1939 | 531 puzzles reviewed · [write-up](https://blitz.xwordapp.com/blog/judge.html) · [status page](https://everypuzzleproject.github.io/judge/) |
 | [GAMES](https://github.com/EveryPuzzleProject/games) | 1977 on | 1977–1979 open for review |
 | [The Boston Globe](https://github.com/EveryPuzzleProject/bostonglobe) | 1917 on | finding puzzles · [status page](https://everypuzzleproject.github.io/bostonglobe/) |
 
