@@ -19,7 +19,7 @@ This is a research archive, not a place to play old puzzles.
 
 **October 2026: our first full series.** Every crossword *Judge* magazine
 printed from 1924 to 1939, 531 puzzles, has been read from archive.org scans into [xd](https://github.com/century-arcade/xdformat),
-checked by Claude and by people against the scans, and is on its way into gxd.
+and checked by Claude and by people against the scans.
 [How it went: what worked, what was hard, and what's next.](https://blitz.xwordapp.com/blog/judge.html)
 
 ## Where to start
