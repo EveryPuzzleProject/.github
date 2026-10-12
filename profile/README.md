@@ -11,8 +11,7 @@ scan), and checking every one by hand, so they can be searched, studied and
 preserved for posterity.
 
 Inspired by David Steinberg's [Pre-Shortzian Puzzle Project](https://www.xwordinfo.com/PSFAQ),
-whose volunteers digitized and proofread the New York Times crosswords from
-before Will Shortz became editor.
+whose volunteers digitized New York Times crosswords from the pre-digital era.
 
 This is a research archive, not a place to play old puzzles.
 
