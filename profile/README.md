@@ -1,6 +1,6 @@
 # Every Puzzle Project
 
-**Finding, indexing and transcribing every crossword ever printed.**
+**Preserving every crossword ever printed.**
 Home: **[everypuzzleproject.org](https://everypuzzleproject.org)**
 
 The first crossword appeared in 1913. Since then countless newspapers,
