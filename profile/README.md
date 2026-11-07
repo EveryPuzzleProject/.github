@@ -5,7 +5,7 @@ Home: **[everypuzzleproject.org](https://everypuzzleproject.org)**
 
 The first crossword appeared in 1913. Since then countless newspapers,
 magazines and books have printed them, and most survive only on paper, or as
-page scans you can look at but not search. We catalog the publications, index
+page scans you can look at but not search. We count the publications, index
 every puzzle they ran, and transcribe each one into an
 [xd](https://github.com/century-arcade/xdformat) file, linked to the scan it
 was read from, so that it can be searched, studied and preserved. The finished
@@ -17,7 +17,7 @@ Steinberg's [Pre-Shortzian Puzzle Project](http://www.preshortzianpuzzleproject.
 
 ## How a puzzle gets from a page to the corpus
 
-1. **Find.** The [catalog](https://github.com/EveryPuzzleProject/catalog) lists
+1. **Find.** [The Crossword Census](https://everypuzzleproject.org/census/) counts
    every publication known to have printed a crossword: when it ran them, where
    copies survive, and how far we've got.
 2. **Index.** One repo per publication (below) records which puzzles exist,
@@ -46,14 +46,14 @@ counts for all of them are on the [home page](https://everypuzzleproject.org/#pu
 
 ## How to help
 
-- **Seen a crossword somewhere?** [Report a puzzle](https://github.com/EveryPuzzleProject/catalog/issues/new?template=report-puzzle.yml)
-  or [report a publication](https://github.com/EveryPuzzleProject/catalog/issues/new?template=report-publication.yml).
+- **Seen a crossword somewhere?** [Report a puzzle](https://github.com/EveryPuzzleProject/census/issues/new?template=report-puzzle.yml)
+  or [report a publication](https://github.com/EveryPuzzleProject/census/issues/new?template=report-publication.yml).
   No technical skills needed.
 - **Have a Claude account?** Direct your Claude to review puzzles against the
   scans: [blitz's How to help](https://github.com/EveryPuzzleProject/blitz#how-to-help)
   has the prompt to paste. Or point it at an open
-  [lead](https://github.com/EveryPuzzleProject/catalog/issues?q=is%3Aopen+label%3Alead)
-  in the catalog.
+  [lead](https://github.com/EveryPuzzleProject/census/issues?q=is%3Aopen+label%3Alead)
+  in the census.
 - **Have Newspapers.com or a library card?** Each status page lists the pages
   it still wants. Open an issue with the date and a clipping link (no page
   images, please; issues are public).
